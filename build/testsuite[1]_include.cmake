@@ -1,5 +1,0 @@
-if(EXISTS "/home/akash/Desktop/Gtest_LabFinal/build/testsuite[1]_tests.cmake")
-  include("/home/akash/Desktop/Gtest_LabFinal/build/testsuite[1]_tests.cmake")
-else()
-  add_test(testsuite_NOT_BUILT testsuite_NOT_BUILT)
-endif()
